@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Attendance Calculator</string>
+    <string name="title_text">Attendance Percentage Calculator</string>
+    <string name="present_hint">Present Classes</string>
+    <string name="total_hint">Total Classes</string>
+    <string name="calculate_btn">Calculate</string>
+</resources>

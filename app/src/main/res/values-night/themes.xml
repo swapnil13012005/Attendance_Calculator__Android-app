@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dark theme -->
+    <style name="Base.Theme.AttendanceCalculator"
+        parent="Theme.Material3.Dark.NoActionBar">
+
+        <!-- Primary colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+
+        <!-- Secondary -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+
+        <!-- Background -->
+        <item name="android:colorBackground">@color/background</item>
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/primary</item>
+
+    </style>
+
+    <style name="Theme.AttendanceCalculator"
+        parent="Base.Theme.AttendanceCalculator" />
+
+</resources>
