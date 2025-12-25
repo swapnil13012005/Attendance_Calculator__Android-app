@@ -16,3 +16,9 @@ or determine how many classes you need to attend to maintain a target percentage
 - Input validation to ensure **proper values only**.
 
 ---
+
+## Install App
+
+https://github.com/swapnil13012005/Attendance_Calculator__Android-app/blob/main/AttendanceCalculator.apk
+
+---
